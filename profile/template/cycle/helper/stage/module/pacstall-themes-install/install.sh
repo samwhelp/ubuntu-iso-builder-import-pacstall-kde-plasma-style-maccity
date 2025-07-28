@@ -132,15 +132,19 @@ sys_pacstall_install_packages () {
 local run_cmd=$(cat << __EOF__
 	pacstall -QPINs
 		bean-appearance-citrus-icon-theme
-		bean-appearance-vimix-gtk-theme
-		bean-appearance-vimix-kde-theme
 
-		bean-appearance-orchis-kde-theme
-		bean-appearance-graphite-kde-theme
-		bean-appearance-fluent-kde-theme
+		bean-appearance-colloid-gtk-theme
 		bean-appearance-colloid-kde-theme
-		bean-appearance-layan-kde-theme
-		bean-appearance-qogir-kde-theme
+
+		bean-appearance-tahoe-gtk-theme
+		bean-appearance-tahoe-icon-theme
+
+		bean-appearance-mojave-kde-theme
+		bean-appearance-monterey-kde-theme
+		bean-appearance-sequoia-kde-theme
+		bean-appearance-sonoma-kde-theme
+		bean-appearance-ventura-kde-theme
+		bean-appearance-whitesur-kde-theme
 
 __EOF__
 )
