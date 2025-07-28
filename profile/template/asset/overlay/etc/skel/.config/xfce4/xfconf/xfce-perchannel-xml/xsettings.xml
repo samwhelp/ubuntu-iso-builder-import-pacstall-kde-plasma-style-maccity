@@ -3,7 +3,7 @@
 <channel name="xsettings" version="1.0">
 	<property name="Net" type="empty">
 		<property name="ThemeName" type="string" value="MacTahoe-Dark"/>
-		<property name="IconThemeName" type="string" value="Citrus-red-dark"/>
+		<property name="IconThemeName" type="string" value="MacTahoe-dark"/>
 		<property name="DoubleClickTime" type="empty"/>
 		<property name="DoubleClickDistance" type="empty"/>
 		<property name="DndDragThreshold" type="empty"/>

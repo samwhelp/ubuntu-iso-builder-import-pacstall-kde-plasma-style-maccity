@@ -9,7 +9,7 @@ smallestReadableFont=Sans Serif,11,-1,5,50,0,0,0,0,0
 toolBarFont=Sans Serif,11,-1,5,50,0,0,0,0,0
 
 [Icons]
-Theme=Citrus-red-dark
+Theme=MacTahoe-dark
 
 [KDE]
 LookAndFeelPackage=com.github.vinceliuice.Vimix-Dark-Ruby

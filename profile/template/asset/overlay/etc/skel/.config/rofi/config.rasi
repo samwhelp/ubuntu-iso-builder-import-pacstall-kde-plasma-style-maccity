@@ -2,7 +2,7 @@
 configuration {
 
 	show-icons:					true;
-	icon-theme:					"Citrus-red-dark";
+	icon-theme:					"MacTahoe-dark";
 	terminal:					"rofi-sensible-terminal";
 	cycle:						false;
 	hide-scrollbar:				true;
