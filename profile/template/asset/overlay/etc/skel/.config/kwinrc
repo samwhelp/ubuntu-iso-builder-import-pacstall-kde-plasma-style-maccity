@@ -66,4 +66,4 @@ RollOverDesktops=true
 ButtonsOnLeft=M
 ButtonsOnRight=IAX
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Colloid-dark
+theme=__aurorae__svg__MacTahoe-Dark
