@@ -136,15 +136,16 @@ local run_cmd=$(cat << __EOF__
 		bean-appearance-colloid-gtk-theme
 		bean-appearance-colloid-kde-theme
 
-		bean-appearance-tahoe-gtk-theme
-		bean-appearance-tahoe-icon-theme
+		bean-appearance-mac-tahoe-icon-theme
+		bean-appearance-mac-tahoe-gtk-theme
+		bean-appearance-mac-tahoe-kde-theme
 
-		bean-appearance-mojave-kde-theme
-		bean-appearance-monterey-kde-theme
-		bean-appearance-sequoia-kde-theme
-		bean-appearance-sonoma-kde-theme
-		bean-appearance-ventura-kde-theme
-		bean-appearance-whitesur-kde-theme
+		bean-appearance-mac-mojave-kde-theme
+		bean-appearance-mac-monterey-kde-theme
+		bean-appearance-mac-sequoia-kde-theme
+		bean-appearance-mac-sonoma-kde-theme
+		bean-appearance-mac-ventura-kde-theme
+		bean-appearance-mac-whitesur-kde-theme
 
 __EOF__
 )
