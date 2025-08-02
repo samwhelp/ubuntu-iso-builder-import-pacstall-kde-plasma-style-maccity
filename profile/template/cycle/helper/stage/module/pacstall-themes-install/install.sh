@@ -145,7 +145,7 @@ local run_cmd=$(cat << __EOF__
 		bean-appearance-mac-sequoia-kde-theme
 		bean-appearance-mac-sonoma-kde-theme
 		bean-appearance-mac-ventura-kde-theme
-		bean-appearance-mac-whitesur-kde-theme
+		bean-appearance-whitesur-kde-theme
 
 __EOF__
 )
