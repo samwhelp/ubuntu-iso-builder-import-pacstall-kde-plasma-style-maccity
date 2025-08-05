@@ -110,6 +110,9 @@ main_menu.currentConfigGroup = ["General"];
 main_menu.writeConfig("icon", "start-here");
 main_menu.writeConfig("lengthFirstMargin", 8);
 
+main_menu.writeConfig("paneSwap", true);
+main_menu.writeConfig("switchCategoryOnHover", true);
+
 main_menu.writeConfig("alphaSort", "true");
 
 main_menu.writeConfig("favoritesPortedToKAstats", "false"); //Are the favorites ported to use KActivitiesStats to allow per-activity favorites
