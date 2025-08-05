@@ -104,6 +104,7 @@ favoritesDisplay=1
 favoritesPortedToKAstats=false
 icon=start-here
 lengthFirstMargin=8
+paneSwap=true
 switchCategoryOnHover=true
 
 [Containments][2][Applets][3][Configuration][Shortcuts]
